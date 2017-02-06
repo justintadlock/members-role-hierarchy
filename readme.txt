@@ -3,9 +3,9 @@
 Contributors: greenshady
 Donate link: http://themehybrid.com/donate
 Tags: roles, members, users
-Requires at least: 4.3
+Requires at least: 4.7
 Tested up to: 4.7.2
-Stable tag: 1.1.2
+Stable tag: 1.0.0
 
 Add-on plugin for Members for hierarchical user roles.
 
