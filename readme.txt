@@ -23,7 +23,7 @@ Please consider helping the cause by:
 
 * [Making a donation](http://themehybrid.com/donate).
 * [Signing up at my site](http://themehybrid.com/club).
-* [Rating the plugin](https://wordpress.org/support/view/plugin-reviews/members?rate=5#postform).
+* [Rating the plugin](https://wordpress.org/support/view/plugin-reviews/members-role-hierarchy?rate=5#postform).
 
 ### Professional Support
 
@@ -55,7 +55,7 @@ You can also [view the readme](https://github.com/justintadlock/members-role-hie
 
 == Screenshots ==
 
-1. Role position
+1. Role Position meta box on edit role screen
 
 == Changelog ==
 
