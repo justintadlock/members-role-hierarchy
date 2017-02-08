@@ -3,7 +3,7 @@
  * Plugin Name: Members - Role Hierarchy
  * Plugin URI:  http://themehybrid.com/plugins/members
  * Description: Role Hierarchy is an add-on plugin for Members for creating a hierarchical roles system. Its purpose is to make sure that users who can edit, create, delete, and promote users cannot do so to users above them in the hierarchy.
- * Version:     1.0.0-dev-20170203
+ * Version:     1.0.0
  * Author:      Justin Tadlock
  * Author URI:  http://justintadlock.com
  * Text Domain: members
