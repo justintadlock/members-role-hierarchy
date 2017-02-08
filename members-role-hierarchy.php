@@ -6,6 +6,8 @@
  * Version:     1.0.0-dev-20170203
  * Author:      Justin Tadlock
  * Author URI:  http://justintadlock.com
+ * Text Domain: members
+ * Domain Path: /lang
  *
  * This program is free software; you can redistribute it and/or modify it under the terms of the GNU
  * General Public License as published by the Free Software Foundation; either version 2 of the License,
@@ -151,7 +153,7 @@ final class Members_Role_Hierarchy_Plugin {
 	 */
 	public function i18n() {
 
-		load_plugin_textdomain( 'members-role-hierarchy', false, trailingslashit( dirname( plugin_basename( __FILE__ ) ) ). 'languages' );
+		load_plugin_textdomain( 'members-role-hierarchy', false, trailingslashit( dirname( plugin_basename( __FILE__ ) ) ). 'lang' );
 	}
 }
 
