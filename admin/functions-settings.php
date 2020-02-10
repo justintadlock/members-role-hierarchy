@@ -30,7 +30,7 @@ function mrh_register_settings() {
 		'mrh_role_hierarchy',
 		esc_html__( 'Role Hierarchy', 'members-role-hierarchy' ),
 		'mrh_settings_field_hierarchy',
-		'settings_page_members-settings',
+		'members-settings',
 		'roles_caps'
 	);
 }
